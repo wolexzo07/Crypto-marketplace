@@ -1,0 +1,9 @@
+  1. 	Box ID: 	54585
+  2. 	Payment Box Name: 	CryptaBuy Payment system  
+  3. 	Public Key: 	54585AAYizx4Bitcoin77BTCPUBHNYmgUvE8FEwfmC83uikcch
+  4. 	Private Key: 	54585AAYizx4Bitcoin77BTCPRV1ltgBXJ5O2aEtXdGX1zInrS
+  5. 	Coin Name: 	bitcoin  
+  6. 	Type of Payment Box: 	paymentbox  
+  7. 	Your External Wallet Address: 	19UWSCDrLQGzFSTe44V8damHDxPXvBuzwf  
+  8. 	Lock External Address Forever: 	
+  9. 	Notification By Email: 	timoprobaba@gmail.com  

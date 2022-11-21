@@ -1,0 +1,16 @@
+This is a summary of 12 Bitcoin and Cryptocurrency Payment Processing Solutions. These solutions are great if you want to accept payments faster, improve your company's cash flow, reduce fraudulent chargebacks and lower your transaction fees. 
+
+Solutions mentioned in this video:
+1. Bitpay - https://bitpay.com
+2. Coinbase Commerce - https://commerce.coinbase.com/ 
+3. CoinPayments - http://coinpayments.net
+4. CoinGate - https://coingate.com/
+5. B2Binpay - https://b2binpay.com/
+6. AtomicPay - https://atomicpay.io/global/en
+7. GoCoin – http://gocoin.com
+8. rocketr - https://rocketr.net/
+9. CryptoWoo - http://www.cryptowoo.com
+10. Bitcoinpaygate - https://bitcoinpaygate.com/
+11. BTCPay (Open-source) - https://btcpayserver.org
+12. Gourl (Open-source) - https://gourl.io/
+[Info] - Shopify - https://help.shopify.com/en/manual/pa... 
