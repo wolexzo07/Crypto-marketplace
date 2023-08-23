@@ -173,7 +173,8 @@ if(!isset($_SESSION["TIMBOSS_CRYPTBUY_ID"])){
             $(document).ready(function () {
 				load('homedash'); // Initializing the homepage
           });
-        </script>
-		
+        </script>   
+	
+
     </body>
 </html>
